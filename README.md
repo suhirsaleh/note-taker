@@ -22,4 +22,4 @@ Amanda Atkins
 * [GitHub](https://github.com/suhirsaleh)
 
 ## License
-This project is licensed under the ISC License.
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved
