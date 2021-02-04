@@ -15,7 +15,7 @@ This simple note taking application allows you to save notes with a title and pl
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [NodeJS](https://nodejs.org/)
 * Node Packages:
-    * [Express](https://www.npmjs.com/package/express)
+* [Express](https://www.npmjs.com/package/express)
 
 ## Authors
 Amanda Atkins
