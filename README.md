@@ -18,7 +18,6 @@ This simple note taking application allows you to save notes with a title and pl
 * [Express](https://www.npmjs.com/package/express)
 
 ## Authors
-Amanda Atkins
 * [GitHub](https://github.com/suhirsaleh)
 
 ## License
